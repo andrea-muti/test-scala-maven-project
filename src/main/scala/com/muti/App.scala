@@ -2,6 +2,7 @@ package com.muti
 
 /**
   * @author Andrea Muti <muti.andrea@gmail.com>
+  *
   * @since 25/05/2019
   */
 object App {
