@@ -14,7 +14,7 @@ object App {
     */
   def foo(x : Array[String]) = x.foldLeft("")((a,b) => a + b)
 
-  def newFeature(): Unit { println("this is a new feature") }
+  def newFeature(): Unit = { println("this is a new feature") }
 
   /**
     * The main method
